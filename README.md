@@ -13,5 +13,5 @@ Only the android native part is implemented using Platform Channel.
   git clone https://github.com/sbis04/battery_level_flutter.git
   ```
 * Open the project in any code editor (preferably **VS Code** or **Android Studio**)
-* Connect your device for use the emulator
+* Connect your device or use the emulator
 * Run the Flutter app
